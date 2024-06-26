@@ -1,2 +1,2 @@
 # All GitHub workflows and changes to them should be reviewed
-/.github/workflows/ @puppetlabs/workflow-security-review
+/.github/workflows/ @puppetlabs/open-source-stewards
